@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,43 +22,67 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Nijar",
+      "id": "e41c",
+      "cityName": "Garcihernandez",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2023-04-03T07:47:59.202Z",
+      "date": "2025-07-22T20:29:00.775Z",
       "notes": "",
       "position": {
-        "lat": "36.967508314568164",
-        "lng": "-2.13128394200588"
-      },
-      "id": 98443198
+        "mapLat": "40.88029480552824",
+        "mapLng": "-5.493164062500001"
+      }
     },
     {
-      "cityName": "Faro",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "id": "db5b",
+      "cityName": "El Menia",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-07-22T20:29:03.959Z",
+      "notes": "",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930456
+        "mapLat": "31.203404950917395",
+        "mapLng": "2.1093750000000004"
+      }
+    },
+    {
+      "id": "cee2",
+      "cityName": "Ar Rayn",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2025-07-22T20:29:32.196Z",
+      "notes": "",
+      "position": {
+        "mapLat": "23.32208001137844",
+        "mapLng": "45.615234375"
+      }
+    },
+    {
+      "id": "1b9f",
+      "cityName": "Le Fel",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-07-22T21:14:22.478Z",
+      "notes": "",
+      "position": {
+        "mapLat": "44.68427737181225",
+        "mapLng": "2.5488281250000004"
+      }
+    },
+    {
+      "id": "9df2",
+      "cityName": "Navas del Rey",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-22T21:14:25.123Z",
+      "notes": "",
+      "position": {
+        "mapLat": "40.396764305572056",
+        "mapLng": "-4.262695312500001"
+      }
     }
   ]
 }
